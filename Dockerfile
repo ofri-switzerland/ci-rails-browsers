@@ -1,4 +1,4 @@
-FROM circleci/ruby:2.7.0-buster-node-browsers
+FROM circleci/ruby:2.7.1-buster-node-browsers
 
 USER root
 
